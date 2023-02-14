@@ -1,0 +1,27 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#app {
+  width: 80vw;
+  height: 80vh;
+  border: 2px solid black;
+  margin: auto;
+  margin-top: 5rem;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+/* position: relative;
+/* } */
+
+#ball {
+  width: 15rem;
+  height: 15rem;
+  background-color: aquamarine;
+  border-radius: 50%;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
